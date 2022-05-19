@@ -26,26 +26,27 @@ body {
 
 .menu button {
   background-color: pink;
-  padding: 10px;
-  border-radius: 21px;
+  padding: 18px;
+  border-radius: 23px;
   border: 1px pink;
 }
 
 .apresentation {
-  background-image: linear-gradient(to right, pink 60%, #eb8695 63%);
+  background-image: linear-gradient(to right, #f7d8dd 60%, #ef8999b5 60%);
 }
 .apresentation img {
-  width: 32%;
+  width: 25%;
   border-radius: 100%;
-  margin-top: 10%;
+  margin-top: 4%;
 }
 .caixa {
   background-color: white;
-  width: 87%;
+  width: 43%;
   margin-top: 10%;
   margin-bottom: 14%;
   box-shadow: 9px 10px 12px 2px #0000003d;
   padding: 12px;
+  font-size: 20px;
 }
 
 .ap-text {
