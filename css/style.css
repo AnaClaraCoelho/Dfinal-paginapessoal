@@ -1,0 +1,64 @@
+body {
+  font-family: "Heebo", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.menu {
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 2%;
+}
+
+.menu nav {
+  gap: 62px;
+  display: flex;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu button {
+  background-color: pink;
+  padding: 10px;
+  border-radius: 21px;
+  border: 1px pink;
+}
+
+.apresentation {
+  background-image: linear-gradient(to right, pink 60%, #eb8695 63%);
+}
+.apresentation img {
+  width: 32%;
+  border-radius: 100%;
+  margin-top: 10%;
+}
+.caixa {
+  background-color: white;
+  width: 87%;
+  margin-top: 10%;
+  margin-bottom: 14%;
+  box-shadow: 9px 10px 12px 2px #0000003d;
+  padding: 12px;
+}
+
+.ap-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.caracteristics img {
+  width: 10%;
+}
+
+.projects {
+  background-color: #f3b3bd;
+}
